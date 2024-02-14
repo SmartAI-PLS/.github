@@ -1,1 +1,1 @@
-# .github
+# Smart AI PLS
